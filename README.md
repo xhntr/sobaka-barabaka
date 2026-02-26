@@ -1,35 +1,42 @@
-# C Programming Projects
+# C Programming Exercises
 
-This repository contains my university and personal projects written in C.
+This repository contains my university and personal exercises written in the C programming language.
 
-## Description
+The goal of these tasks was to practice fundamental programming concepts and improve logical thinking and problem solving skills.
 
-These projects were created to practice:
-- Basic C syntax
-- Console input/output
-- Loops and conditions
-- Functions
-- Problem solving
-- Logical thinking
+## Topics covered
 
-## Project Examples
+- Basic C syntax  
+- Console input and output  
+- Loops and conditions  
+- Functions  
+- Arrays  
+- Pointers  
+- Simple algorithms  
+- Moving average calculation  
+- Small console programs  
 
-- 7-Zeiger
-- Console applications
-- Mathematical problems
-- Small logical programs
-- Simple game logic experiments
+## Example programs
 
-## Technologies
-
-- Language: C
-- Development: Console applications
-- Version control: Git
+- Moving average calculation (array processing)
+- Pointer exercises
+- Console based tasks
+- Basic algorithm problems
 
 ## Purpose
 
-The goal of these projects was to improve my understanding of low-level programming concepts and develop structured problem-solving skills.
+These exercises were created during my studies and in my free time to build a strong foundation in programming.  
+They helped me understand low-level programming concepts and improve structured thinking.
 
----
+## Technologies
 
-Author: Daniil Oliinyk
+- Language: C  
+- Environment: Console applications  
+- Tools: GCC / Visual Studio / Git  
+
+## About me
+
+I am currently looking for an Ausbildung in the IT field (Fachinformatiker).  
+I am especially interested in software development and continue improving my programming skills through personal projects.
+
+GitHub: https://github.com/xhntr
